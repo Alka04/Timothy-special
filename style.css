@@ -1,0 +1,23 @@
+body {
+    background-color: #00c2ff;
+}
+main{
+    background-color: black;
+}
+.fade {
+    font-size: 11px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100; 
+    background: -webkit-linear-gradient(#ea3d32, #00c2ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+.fadeh {
+    font-size: 22px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100; 
+    background: -webkit-linear-gradient(#ea3d32, #00c2ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align:  center;
+  }
