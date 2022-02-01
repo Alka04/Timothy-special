@@ -21,3 +21,6 @@ main{
     -webkit-text-fill-color: transparent;
     text-align:  center;
   }
+  .links{
+      text-decoration: none;
+  }
