@@ -3,6 +3,7 @@ body {
 }
 main{
     background-color: black;
+    
 }
 .fade {
     font-size: 11px;
@@ -23,4 +24,16 @@ main{
   }
   .links{
       text-decoration: none;
+      font-size: 30px;
+      padding: 133px;
+      color: black;
+  }
+  .apa{
+    font-size: 22px;
+    font-family: Helvetica,Arial,sans-serif;
+    font-weight: 100; 
+    background: -webkit-linear-gradient(#ea3d32, #00c2ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+text-align: center;
   }
